@@ -1,0 +1,66 @@
+age,gender,allowance_permonth,household_income,ordering_amount,spending_amount,goingout_amount,transportation,preferable_food_type,reason,interest_output,expense_output
+17,Male,500000,Rp. 5.000.000 - Rp. 16.000.000,3.0,100000,2.0,By car,Main Course (Meal),Time consumption;Availability / Range of choice;Deals and payment option provided,Online food delivery services,Online food delivery services
+17,Male,1400000,Prefer not to answer,2.0,100,4.0,By car,Appetizer (Snacks);Main Course (Meal),Price cost;Availability / Range of choice;Deals and payment option provided,Online food delivery services,Online food delivery services
+16,Male,1000000,> Rp. 30.000.000,1.0,50000,5.0,By car,Main Course (Meal),Deals and payment option provided,Online food delivery services,Online food delivery services
+17,Female,500,> Rp. 30.000.000,1.0,100,1.0,By car,Appetizer (Snacks),Price cost;Availability / Range of choice,Online food delivery services,Online food delivery services
+17,Female,1000000,Prefer not to answer,4.0,80,3.0,By car,Appetizer (Snacks);Main Course (Meal),Time consumption,Online food delivery services,Online food delivery services
+17,Male,2000000,Prefer not to answer,1.0,1,2.0,By car,Appetizer (Snacks),Availability / Range of choice,Online food delivery services,Online food delivery services
+17,Male,200000,Prefer not to answer,0.0,50,2.0,By motorcycle,Appetizer (Snacks),Time consumption,Food takeout,Food takeout
+17,Male,600,Rp. 0 - Rp.5.000.000,1.0,50000,2.0,By car,Appetizer (Snacks);Dessert (Sweets / Bakery),Time consumption;Comfort and convenience dining experience,Online food delivery services,Online food delivery services
+17,Female,600,Prefer not to answer,1.0,50,3.0,By car,Appetizer (Snacks);Main Course (Meal);Dessert (Sweets / Bakery),Availability / Range of choice,Online food delivery services,Online food delivery services
+17,Male,500,Prefer not to answer,2.0,40,2.0,By car,Main Course (Meal),Comfort and convenience dining experience,Food takeout,Online food delivery services
+17,Male,1000000,Prefer not to answer,2.0,100000,3.0,By car,Main Course (Meal),Time consumption,Food takeout,Online food delivery services
+15,Female,1000000,Prefer not to answer,3.0,200000,2.0,By car,Main Course (Meal),Deals and payment option provided;Comfort and convenience dining experience,Online food delivery services,Online food delivery services
+16,Female,125000,Prefer not to answer,1.0,30000,2.0,By car,Appetizer (Snacks);Dessert (Sweets / Bakery),Availability / Range of choice;Deals and payment option provided,Online food delivery services,Food takeout
+17,Female,300000,Prefer not to answer,1.0,50000,2.0,By car,Appetizer (Snacks);Main Course (Meal);Dessert (Sweets / Bakery),Availability / Range of choice;Deals and payment option provided,Online food delivery services,Online food delivery services
+15,Female,3000000,Prefer not to answer,2.0,100,1.0,By car,Appetizer (Snacks),Time consumption,Online food delivery services,Online food delivery services
+16,Male,660,Prefer not to answer,0.7,70,0.3,By motorcycle,Main Course (Meal),Availability / Range of choice,Online food delivery services,Online food delivery services
+15,Male,300000,Rp. 5.000.000 - Rp. 16.000.000,2.0,50000,2.0,By car,Appetizer (Snacks);Main Course (Meal),Time consumption;Availability / Range of choice;Deals and payment option provided;Comfort and convenience dining experience,Online food delivery services,Online food delivery services
+17,Male,200,> Rp. 30.000.000,1.0,50000,2.0,By car,Appetizer (Snacks);Main Course (Meal),Time consumption;Deals and payment option provided,Food takeout,Food takeout
+16,Male,100,Rp. 5.000.000 - Rp. 16.000.000,2.0,400,2.0,By car,Appetizer (Snacks);Main Course (Meal),Time consumption;Availability / Range of choice;Deals and payment option provided;Comfort and convenience dining experience,Online food delivery services,Online food delivery services
+17,Male,100,Prefer not to answer,3.0,60,2.0,By car,Appetizer (Snacks),Time consumption;Comfort and convenience dining experience,Food takeout,Online food delivery services
+16,Female,150,Prefer not to answer,1.0,30000,2.0,By car,Main Course (Meal);Dessert (Sweets / Bakery),Time consumption;Availability / Range of choice,Food takeout,Food takeout
+16,Female,1000,Prefer not to answer,1.0,75,2.0,By car,Appetizer (Snacks);Main Course (Meal),Time consumption;Price cost;Deals and payment option provided,Online food delivery services,Food takeout
+16,Female,500,Prefer not to answer,1.0,50,2.0,By car,Appetizer (Snacks),Time consumption;Availability / Range of choice,Food takeout,Online food delivery services
+17,Female,500000,Prefer not to answer,5.0,4,1.0,By car,Appetizer (Snacks);Main Course (Meal),Time consumption;Availability / Range of choice,Online food delivery services,Online food delivery services
+16,Male,600,Prefer not to answer,1.0,70,1.0,By motorcycle,Appetizer (Snacks);Main Course (Meal);Dessert (Sweets / Bakery),Time consumption;Availability / Range of choice;Comfort and convenience dining experience,Online food delivery services,Food takeout
+16,Female,700000,Prefer not to answer,2.0,100,2.0,By car,Appetizer (Snacks);Main Course (Meal);Dessert (Sweets / Bakery),Time consumption;Availability / Range of choice;Deals and payment option provided;Comfort and convenience dining experience,Online food delivery services,Online food delivery services
+15,Female,150000,Prefer not to answer,1.0,30000,6.0,By car,Appetizer (Snacks);Main Course (Meal),Time consumption;Availability / Range of choice;Deals and payment option provided,Online food delivery services,Online food delivery services
+16,Female,0,Prefer not to answer,0.0,0,1.0,By motorcycle,Appetizer (Snacks);Main Course (Meal),Comfort and convenience dining experience,Online food delivery services,Online food delivery services
+16,Female,1500000,Prefer not to answer,3.0,200,1.0,By car,Appetizer (Snacks),Availability / Range of choice,Online food delivery services,Online food delivery services
+15,Male,800000,Prefer not to answer,1.0,100000,1.0,By car,Main Course (Meal),Time consumption;Deals and payment option provided;Comfort and convenience dining experience,Online food delivery services,Online food delivery services
+15,Female,650,Prefer not to answer,2.0,150,2.0,By car,Appetizer (Snacks),Time consumption;Availability / Range of choice,Food takeout,Food takeout
+17,Male,300000,Prefer not to answer,2.0,50000,1.0,By motorcycle,Main Course (Meal),Deals and payment option provided;Comfort and convenience dining experience,Online food delivery services,Online food delivery services
+15,Male,500000,Prefer not to answer,4.0,35000,1.0,By car,Main Course (Meal),Comfort and convenience dining experience,Food takeout,Food takeout
+15,Male,0,> Rp. 30.000.000,0.0,0,0.0,By car,Main Course (Meal),Time consumption;Comfort and convenience dining experience,Online food delivery services,Online food delivery services
+15,Female,500,Rp. 5.000.000 - Rp. 16.000.000,3.0,100,2.0,By motorcycle,Appetizer (Snacks);Main Course (Meal),Availability / Range of choice;Comfort and convenience dining experience,Food takeout,Food takeout
+16,Female,300000,Prefer not to answer,2.0,200000,2.0,By car,Appetizer (Snacks);Main Course (Meal),Comfort and convenience dining experience,Food takeout,Food takeout
+16,Female,500,Prefer not to answer,2.0,100,3.0,By car,Main Course (Meal),Time consumption;Availability / Range of choice,Food takeout,Food takeout
+15,Male,1500000,Prefer not to answer,1.0,30000,1.0,By car,Main Course (Meal),Comfort and convenience dining experience,Online food delivery services,Online food delivery services
+16,Male,600000,Prefer not to answer,1.0,75000,4.0,By motorcycle,Appetizer (Snacks);Main Course (Meal),Time consumption;Availability / Range of choice;Comfort and convenience dining experience,Online food delivery services,Online food delivery services
+15,Female,200000,Prefer not to answer,0.0,10,1.0,By car,Appetizer (Snacks);Dessert (Sweets / Bakery),Time consumption,Online food delivery services,Food takeout
+16,Female,800000,> Rp. 30.000.000,1.0,1,2.0,By car,Appetizer (Snacks);Main Course (Meal),Price cost;Availability / Range of choice;Deals and payment option provided,Online food delivery services,Food takeout
+17,Male,500,Prefer not to answer,3.0,5,3.0,By car,Main Course (Meal),Comfort and convenience dining experience,Food takeout,Online food delivery services
+15,Male,200000,Prefer not to answer,0.0,30000,1.0,By car,Appetizer (Snacks),Time consumption;Availability / Range of choice,Online food delivery services,Online food delivery services
+15,Female,500,Prefer not to answer,1.0,50,2.0,By car,Appetizer (Snacks),Time consumption;Availability / Range of choice;Deals and payment option provided,Online food delivery services,Online food delivery services
+15,Male,0,Rp. 5.000.000 - Rp. 16.000.000,0.0,0,1.0,By car,Appetizer (Snacks),Time consumption,Food takeout,Food takeout
+16,Female,400,Prefer not to answer,2.0,100,4.0,By car,Main Course (Meal),Time consumption,Online food delivery services,Online food delivery services
+17,Female,500000,Prefer not to answer,3.0,200000,2.0,By car,Main Course (Meal),Time consumption;Comfort and convenience dining experience,Online food delivery services,Online food delivery services
+16,Female,700,Prefer not to answer,4.0,35000,2.0,By motorcycle,Main Course (Meal),Time consumption;Deals and payment option provided,Food takeout,Food takeout
+16,Female,200,Prefer not to answer,2.0,40,1.0,By car,Main Course (Meal),Price cost,Online food delivery services,Online food delivery services
+16,Female,300,Prefer not to answer,2.0,30,2.0,By car,Appetizer (Snacks);Dessert (Sweets / Bakery),Time consumption;Price cost,Online food delivery services,Online food delivery services
+15,Female,750000,Rp. 5.000.000 - Rp. 16.000.000,1.0,0,1.0,By motorcycle,Appetizer (Snacks),Time consumption,Online food delivery services,Online food delivery services
+18,Male,300,Prefer not to answer,2.0,60,2.0,By motorcycle,Appetizer (Snacks);Main Course (Meal),Availability / Range of choice;Deals and payment option provided;Comfort and convenience dining experience,Online food delivery services,Online food delivery services
+17,Male,500,Prefer not to answer,5.0,100,5.0,By car,Appetizer (Snacks);Main Course (Meal),Time consumption;Comfort and convenience dining experience,Online food delivery services,Online food delivery services
+16,Male,2000,Prefer not to answer,7.0,250,5.0,By car,Appetizer (Snacks);Main Course (Meal),Time consumption;Price cost;Availability / Range of choice,Online food delivery services,Food takeout
+16,Male,400000,Prefer not to answer,1.0,50000,2.0,By car,Appetizer (Snacks);Dessert (Sweets / Bakery),Time consumption;Availability / Range of choice,Online food delivery services,Online food delivery services
+15,Female,0,Rp. 0 - Rp.5.000.000,1.0,100,1.0,By car,Main Course (Meal),Availability / Range of choice,Online food delivery services,Online food delivery services
+16,Female,1500000,Prefer not to answer,3.0,3,1.0,By car,Appetizer (Snacks);Dessert (Sweets / Bakery),Time consumption,Online food delivery services,Online food delivery services
+15,Female,1000000,Prefer not to answer,2.0,100000,1.0,By car,Appetizer (Snacks);Dessert (Sweets / Bakery),Availability / Range of choice;Comfort and convenience dining experience,Online food delivery services,Online food delivery services
+15,Male,0,Rp. 5.000.000 - Rp. 16.000.000,2.0,400000,1.0,By car,Main Course (Meal),Time consumption;Deals and payment option provided,Food takeout,Food takeout
+17,Male,500000,> Rp. 30.000.000,3.0,100000,2.0,By car,Main Course (Meal),Time consumption;Availability / Range of choice,Online food delivery services,Online food delivery services
+16,Male,1000000,> Rp. 30.000.000,4.0,100000,3.0,By car,Appetizer (Snacks);Main Course (Meal),Time consumption;Availability / Range of choice;Deals and payment option provided,Online food delivery services,Online food delivery services
+16,Male,750000,> Rp. 30.000.000,3.0,150000,2.0,By motorcycle,Appetizer (Snacks);Main Course (Meal),Time consumption;Availability / Range of choice,Online food delivery services,Online food delivery services
+16,Female,200,Prefer not to answer,1.0,20,3.0,By car,Main Course (Meal),Time consumption;Availability / Range of choice,Food takeout,Food takeout
+17,Female,1000000,Prefer not to answer,1.0,50000,3.0,By car,Main Course (Meal);Dessert (Sweets / Bakery),Time consumption;Deals and payment option provided;Comfort and convenience dining experience,Online food delivery services,Online food delivery services
+17,Male,1300000,> Rp. 30.000.000,3.0,170000,2.0,By car,Appetizer (Snacks);Main Course (Meal),Time consumption;Comfort and convenience dining experience,Online food delivery services,Online food delivery services
